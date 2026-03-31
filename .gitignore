@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+google-service-account.json
+gen-lang-client-*.json
+estimator.db
+estimator.db-shm
+estimator.db-wal
